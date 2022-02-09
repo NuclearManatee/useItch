@@ -48,13 +48,13 @@ You can track issues on the [GitHub issue tracker](https://github.com/NuclearMan
 
 ## Roadmap
 
-[x] first implementation: oAuth and user info
-[] implementing the [games purchased scope](https://itch.io/docs/api/serverside#reference/profilegames-httpsitchioapi1keymy-games) for check games ownership
-[] session persistance
-[] automation testing
-[] Expo compatible
-[] React Navigator compatible
-[] Nextjs compatible
+- [x] first implementation: oAuth and user info
+- [] implementing the [games purchased scope](https://itch.io/docs/api/serverside#reference/profilegames-httpsitchioapi1keymy-games) for check games ownership
+- [] session persistance
+- [] automation testing
+- [] Expo compatible
+- [] React Navigator compatible
+- [] Nextjs compatible
 
 ## Contribution
 
