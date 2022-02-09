@@ -1,5 +1,5 @@
 {
-  "name": "use-itch",
+  "name": "useitch",
   "version": "1.0.0",
   "description": "An unofficial and bare minimal implementation of Itch.io oAuth and APIs",
   "keywords": [
@@ -27,10 +27,22 @@
   },
   "repository": {
     "type": "git",
-    "url" : "git+https://github.com/NuclearManatee/useItch"
+    "url": "git+https://github.com/NuclearManatee/useItch"
   },
   "bugs": {
-    "url" : "https://github.com/NuclearManatee/useItch/issues"
+    "url": "https://github.com/NuclearManatee/useItch/issues"
   },
-  "homepage" : "https://github.com/NuclearManatee/useItch#readme"
+  "homepage": "https://github.com/NuclearManatee/useItch#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
