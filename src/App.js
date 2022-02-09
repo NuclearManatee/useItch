@@ -1,5 +1,5 @@
 import React from "react";
-import { useItch } from "./useItch";
+import { useItch } from ".lib";
 import "./styles.css";
 
 export default function App() {

@@ -1,6 +1,6 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
-import { ItchProvider } from "./useItch";
+import { ItchProvider } from ".lib";
 
 import App from "./App";
 
