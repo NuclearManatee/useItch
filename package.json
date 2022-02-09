@@ -1,6 +1,6 @@
 {
   "name": "useitch",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An unofficial and bare minimal implementation of Itch.io oAuth and APIs",
   "keywords": [
     "itch.io",
